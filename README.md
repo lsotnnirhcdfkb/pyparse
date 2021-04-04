@@ -1,2 +1,2 @@
 # pyparse
-Python parser in python
+Python parser for better syntax error messages
